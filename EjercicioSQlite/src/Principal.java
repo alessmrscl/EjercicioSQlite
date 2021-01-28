@@ -18,6 +18,9 @@ public class Principal extends JFrame implements ActionListener{
     private JButton b1,b2,b3,b4; 
       
 	public Principal() {
+		
+	 System.out.println("Linea de visualización 1");
+	 System.out.println("Linea de visualización 2");
 	
 	 setTitle("Ventana INICIAL.");
      setLayout(null);
